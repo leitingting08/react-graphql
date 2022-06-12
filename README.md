@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# React graphql demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## features
+
+use graphql spacex API show Past Launches lists、Next Launches
+route:  /launch/list
 
 ## Available Scripts
 
